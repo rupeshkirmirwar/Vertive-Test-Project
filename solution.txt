@@ -1,0 +1,2 @@
+1) Please open and build the backend solution file under \BackendAPI\VertiveTestAPI. 
+2) Please run npm start for frontend app at \Frontend\vertivtest.

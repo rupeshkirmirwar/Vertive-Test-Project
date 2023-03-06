@@ -1,0 +1,24 @@
+C:\MyProjects\DotNetCore\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\MyProjects\DotNetCore\Entities\bin\Debug\net6.0\Entities.dll
+C:\MyProjects\DotNetCore\Entities\bin\Debug\net6.0\Entities.pdb
+C:\MyProjects\DotNetCore\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\MyProjects\DotNetCore\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\DotNetCore\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\MyProjects\DotNetCore\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\MyProjects\DotNetCore\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\MyProjects\DotNetCore\Entities\obj\Debug\net6.0\Entities.dll
+C:\MyProjects\DotNetCore\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\MyProjects\DotNetCore\Entities\obj\Debug\net6.0\Entities.pdb
+C:\MyProjects\DotNetCore\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\bin\Debug\net6.0\Entities.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\bin\Debug\net6.0\Entities.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\obj\Debug\net6.0\Entities.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\obj\Debug\net6.0\Entities.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Entities\obj\Debug\net6.0\ref\Entities.dll

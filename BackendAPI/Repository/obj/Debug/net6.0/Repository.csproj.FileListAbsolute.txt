@@ -1,0 +1,34 @@
+C:\MyProjects\DotNetCore\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\MyProjects\DotNetCore\Repository\bin\Debug\net6.0\Repository.dll
+C:\MyProjects\DotNetCore\Repository\bin\Debug\net6.0\Repository.pdb
+C:\MyProjects\DotNetCore\Repository\bin\Debug\net6.0\Entities.dll
+C:\MyProjects\DotNetCore\Repository\bin\Debug\net6.0\RepositoryContracts.dll
+C:\MyProjects\DotNetCore\Repository\bin\Debug\net6.0\Entities.pdb
+C:\MyProjects\DotNetCore\Repository\bin\Debug\net6.0\RepositoryContracts.pdb
+C:\MyProjects\DotNetCore\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\MyProjects\DotNetCore\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\DotNetCore\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\MyProjects\DotNetCore\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\MyProjects\DotNetCore\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\MyProjects\DotNetCore\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\MyProjects\DotNetCore\Repository\obj\Debug\net6.0\Repository.dll
+C:\MyProjects\DotNetCore\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\MyProjects\DotNetCore\Repository\obj\Debug\net6.0\Repository.pdb
+C:\MyProjects\DotNetCore\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\bin\Debug\net6.0\Repository.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\bin\Debug\net6.0\Repository.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\bin\Debug\net6.0\Entities.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\bin\Debug\net6.0\RepositoryContracts.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\bin\Debug\net6.0\Entities.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\bin\Debug\net6.0\RepositoryContracts.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\obj\Debug\net6.0\Repository.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\obj\Debug\net6.0\Repository.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\Repository\obj\Debug\net6.0\ref\Repository.dll

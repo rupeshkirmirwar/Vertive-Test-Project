@@ -1,0 +1,84 @@
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\appsettings.json
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\VertiveTestAPI.exe
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\VertiveTestAPI.deps.json
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\VertiveTestAPI.runtimeconfig.json
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\VertiveTestAPI.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\VertiveTestAPI.pdb
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.csproj.AssemblyReference.cache
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.AssemblyInfoInputs.cache
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.AssemblyInfo.cs
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.csproj.CoreCompileInputs.cache
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.VertiveTestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VertiveTestAPI.props
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VertiveTestAPI.props
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VertiveTestAPI.props
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\scopedcss\bundle\VertiveTestAPI.styles.css
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.csproj.CopyComplete
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\refint\VertiveTestAPI.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.pdb
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.genruntimeconfig.cache
+C:\MyProjects\DotNetCore\VertiveTestAPI\obj\Debug\net6.0\ref\VertiveTestAPI.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\Entities.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\Repository.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\RepositoryContracts.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\ServiceContracts.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\Services.dll
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\Entities.pdb
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\RepositoryContracts.pdb
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\Repository.pdb
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\ServiceContracts.pdb
+C:\MyProjects\DotNetCore\VertiveTestAPI\bin\Debug\net6.0\Services.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\appsettings.json
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\VertiveTestAPI.exe
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\VertiveTestAPI.deps.json
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\VertiveTestAPI.runtimeconfig.json
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\VertiveTestAPI.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\VertiveTestAPI.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\Entities.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\Repository.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\RepositoryContracts.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\ServiceContracts.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\Services.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\Entities.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\RepositoryContracts.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\Repository.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\ServiceContracts.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\bin\Debug\net6.0\Services.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.csproj.AssemblyReference.cache
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.AssemblyInfoInputs.cache
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.AssemblyInfo.cs
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.csproj.CoreCompileInputs.cache
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.VertiveTestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VertiveTestAPI.props
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VertiveTestAPI.props
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VertiveTestAPI.props
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\scopedcss\bundle\VertiveTestAPI.styles.css
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.csproj.CopyComplete
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\refint\VertiveTestAPI.dll
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.pdb
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\VertiveTestAPI.genruntimeconfig.cache
+C:\My Stuff\Misc\JobSearch\2023\Vertive Energy\TestProject\BackendAPI\VertiveTestAPI\obj\Debug\net6.0\ref\VertiveTestAPI.dll
